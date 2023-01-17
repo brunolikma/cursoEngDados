@@ -6,6 +6,6 @@ Repositorio criado para armazenar atividades do curso de Engenheiro de dados.
 <br>
 ## Estrutura de diretórios
 
-├── Atividades
+* Atividades
 <br>
-├ ├── RelatorioDeItensVendidosPorCliente.sql       <- scrip gerado para a atividade.
+  * RelatorioDeItensVendidosPorCliente.sql       <- scrip gerado para a atividade.
