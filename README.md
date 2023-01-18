@@ -6,5 +6,6 @@ Repositorio criado para armazenar atividades do curso de Engenheiro de dados.
 <br>
 ## Estrutura de diretórios
 
-* Atividades
-  * RelatorioDeItensVendidosPorCliente.sql       <- scrip gerado para a atividade.
+- Atividades
+  - Section 5 Modelo Relacional e SQL - Postgres e EC2
+     - RelatorioDeItensVendidosPorCliente.sql
