@@ -1,7 +1,7 @@
 # cursoEngDados
 Repositorio criado para armazenar atividades do curso de Engenheiro de dados.
 <br>
-<a href=“https://www.udemy.com/course/engenheiro-de-dados“>Link do Curso</a>
+www.udemy.com/course/engenheiro-de-dados
 <br>
 <br>
 ## Estrutura de diretórios
